@@ -1,0 +1,29 @@
+{
+  "test": {
+    "main"    : {
+      "USER"     : "root",
+      "PASS"     : "",
+      "HOST"     : "localhost",
+      "PORT"     : "27017",
+      "DATABASE" : "clients-test"
+    }
+  },
+  "development": {
+    "main"    : {
+      "USER"     : "root",
+      "PASS"     : "",
+      "HOST"     : "localhost",
+      "PORT"     : "27017",
+      "DATABASE" : "clients-dev"
+    }
+  },
+  "production": {
+    "main"    : {
+      "USER"     : "root",
+      "PASS"     : "",
+      "HOST"     : "localhost",
+      "PORT"     : "27017",
+      "DATABASE" : "clients-main"
+    }
+  }
+}
